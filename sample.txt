@@ -1,0 +1,169 @@
+Article 
+
+
+A new coronavirus associated with human 
+respiratory disease in China 
+
+
+https://doi.org/10.1038/s41586-020-2008-3 
+Received: 7 January 2020 
+Accepted: 28 January 2020 
+
+
+Fan Wu 1,7 , Su Zhao 27 , Bin Yu 37 , Yan-Mei Chen 17 , Wen Wang 47 , Zhi-Gang Song 17 , Yi Hu 27 , 
+Zhao-Wu Tao 2 , Jun-Hua Tian 3 , Yuan-Yuan Pei 1 , Ming-Li Yuan 2 , Yu-Ling Zhang 1 , Fa-Hui Dai 1 , 
+
+Yi Liu 1 , Qi-Min Wang 1 , Jiao-Jiao Zheng 1 , Lin Xu 1 , Edward C. Holmes 15 & Yong-Zhen Zhang 14 6e 
+
+
+Published online: 3 February 2020 
+Open access 
+€ Check for updates 
+
+
+Emerging infectious diseases, such as severe acute respiratory syndrome (SARS) and 
+Zika virus disease, present a major threat to public health 13 . Despite intense research 
+efforts, how, when and where new diseases appear are still a source of considerable 
+uncertainty. A severe respiratory disease was recently reported in Wuhan, Hubei 
+province, China. As of 25January 2020, at least 1,975 cases had been reported since the 
+first patient was hospitalized on 12 December 2019. Epidemiological investigations 
+have suggested that the outbreak was associated with a seafood market in Wuhan. 
+Here we study a single patient who was a worker at the market and who was admitted 
+to the Central Hospital of Wuhan on 26 December 2019 while experiencing a severe 
+respiratory syndrome that included fever, dizziness and a cough. Metagenomic RNA 
+sequencing 4 of a sample of bronchoalveolar lavage fluid from the patient identified 
+a new RNA virus strain from the family Coronaviridae, which is designated here 
+'WH-Human Y coronavirus (and has also been referred to as '2019-nCoV'). 
+Phylogenetic analysis of the complete viral genome (29,903 nucleotides) revealed 
+that the virus was most closely related (89.1% nucleotide similarity) to a group of 
+SARS-like coronaviruses (genus Betacoronavirus, subgenus Sarbecovirus) that had 
+previously been found in bats in China 5 . This outbreak highlights the ongoing ability 
+of viral spill-over from animals to cause severe disease in humans. 
+
+
+
+
+Epidemiological investigations by the Wuhan Center for Disease 
+Control and Prevention revealed that the patient worked at a local 
+indoor seafood market. Notably, in addition to fish and shellfish, a 
+variety of live wild animals-including hedgehogs, badgers, snakes 
+and birds (turtledoves)-were available for sale in the market before 
+the outbreak began, as well as animal carcasses and animal meat. No 
+bats were available for sale. While the patient might have had contact 
+with wild animals at the market, he recalled no exposure to live poultry. 
+
+To investigate the possible aetiological agents associated with 
+this disease, we collected bronchoalveolar lavage fluid (BALF) and 
+
+
+Shanghai Public Health Clinical Center, Fudan University, Shanghai, China, department of Pulmonary and Critical Care Medicine, The Central Hospital of Wuhan, Tongji Medical College, 
+Huazhong University of Science and Technology, Wuhan, China. 3 Wuhan Center for Disease Control and Prevention, Wuhan, China, department of Zoonosis, National Institute for 
+Communicable Disease Control and Prevention, China Center for Disease Control and Prevention, Beijing, China. 5 Marie Bashir Institute for Infectious Diseases and Biosecurity, School of Life 
+and Environmental Sciences and School of Medical Sciences, The University of Sydney, Sydney, New South Wales, Australia. 6 School of Public Health, Fudan University, Shanghai, China. 
+7 These authors contributed equally: Fan Wu, Su Zhao, Bin Yu, Yan-Mei Chen, Wen Wang, Zhi-Gang Song, Yi Hu. s e-mail: zhangyongzhen@shphc.org.cn 
+
+
+Nature | Vol579 I 12 March 2020 | 265 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article 
+
+
+Table 11 Clinical symptoms and patient data 
+
+
+Characteristic 
+
+Patient 
+
+Age (years) 
+
+41 
+
+Sex 
+
+Male 
+
+Date of illness onset 
+
+20 December 2019 
+
+Date of admission 
+
+26 December 2019 
+
+Signs and symptoms 
+
+Fever 
+
+Yes 
+
+Body temperature (°C) 
+
+38.4 
+
+Cough 
+
+Yes 
+
+Sputum production 
+
+Yes 
+
+Dizzy 
+
+Yes 
+
+Weakness 
+
+Yes 
+
+Chest tightness 
+
+Yes 
+
+Dyspnoea 
+
+Yes 
+
+Bacterial culture 
+
+Negative 
+
+Glucocorticoid therapy 
+
+Yes 
+
+Antibiotic therapy 
+
+Cefoselis 
+
+Antiviral therapy 
+
+Oseltamivir 
+
+Oxygen therapy 
+
+Mechanical ventilation 
+
+
+
+
+
+
+
+
+
+
+
